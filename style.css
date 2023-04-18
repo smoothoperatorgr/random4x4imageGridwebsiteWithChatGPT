@@ -1,0 +1,11 @@
+#image-grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+
+img {
+    margin:auto;
+    height: 320px;
+}
