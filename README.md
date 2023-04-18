@@ -1,6 +1,6 @@
 # this is a quick hack with ChatGPT!
 
-## here is the whole conversation with ChatGPT and I only edited the random image url generator by specifying the height to be 320!
+## here is the whole conversation with ChatGPT and I only edited the random image url generator by specifying the height to be 320! also added to the css of img `margin: auto`
 
 > 1 / 1
 > 
